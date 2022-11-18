@@ -42,7 +42,7 @@
 }
 
 .header_background-color {
-  background-color:  #f2f2f2 ;
+  background-color: #f2f2f2 ;
 }
 
 .header__title {
@@ -318,7 +318,7 @@
   line-height: 30px;
   text-decoration: none;
 }
-  
+
 .footer__author {
   color: white;
   font-size: 18px;
