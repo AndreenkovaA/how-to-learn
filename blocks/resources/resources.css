@@ -1,3 +1,5 @@
 .resources {
   min-height: 245px;
+  display: flex;
+  flex-direction: column;
 }
